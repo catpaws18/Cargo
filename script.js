@@ -1,4 +1,4 @@
-<!--<script>
+<script>
 const selections = {
     topics: new Set(),
     form: null,
@@ -137,4 +137,4 @@ function typeWriter(text) {
 function closeOutput() {
     document.getElementById('outputScreen').classList.remove('visible');
 }
-    </script>-->
+    </script>
